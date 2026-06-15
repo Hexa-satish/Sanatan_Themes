@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_url": "https://raw.githubusercontent.com/Hexa-satish/Sanatan_Themes/main",
+  "themes": [
+    {
+      "id": "ganesh_gold",
+      "name": "Ganesh Gold",
+      "category": "ganesh",
+      "preview": "themes/ganesh_gold/preview.png",
+      "text_color": "#FFD700"
+    },
+    {
+      "id": "hanuman_strength",
+      "name": "Hanuman Strength",
+      "category": "hanuman",
+      "preview": "themes/hanuman_strength/preview.png",
+      "text_color": "#FF6B35"
+    },
+    {
+      "id": "krishna_bliss",
+      "name": "Krishna Bliss",
+      "category": "krishna",
+      "preview": "themes/krishna_bliss/preview.png",
+      "text_color": "#4A90D9"
+    },
+    {
+      "id": "lotus_serenity",
+      "name": "Lotus Serenity",
+      "category": "lotus",
+      "preview": "themes/lotus_serenity/preview.png",
+      "text_color": "#E8A0BF"
+    },
+    {
+      "id": "shiv_shakti_glow",
+      "name": "Shiv Shakti Glow",
+      "category": "shiv_shakti",
+      "preview": "themes/shiv_shakti_glow/preview.png",
+      "text_color": "#9B59B6"
+    }
+  ]
+}
