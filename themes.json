@@ -6,17 +6,19 @@
       "id": "theme_01",
       "name": "Theme 01",
       "category": "all",
-      "album": "themes/theme_01/album.png",
-      "preview": "themes/theme_01/preview.png",
-      "text_color": "#FFFFFF"
+      "album": "themes/theme_02/album.png",
+      "preview": "themes/theme_02/preview.png",
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_02/keyboard_image.png"
     },
     {
       "id": "theme_02",
       "name": "Theme 02",
       "category": "all",
-      "album": "themes/theme_02/album.png",
-      "preview": "themes/theme_02/preview.png",
-      "text_color": "#FFFFFF"
+      "album": "themes/theme_01/album.png",
+      "preview": "themes/theme_01/preview.png",
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_01/keyboard_image.png"
     },
     {
       "id": "theme_03",
@@ -24,7 +26,8 @@
       "category": "all",
       "album": "themes/theme_03/album.png",
       "preview": "themes/theme_03/preview.png",
-      "text_color": "#FFFFFF"
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_03/keyboard_image.png"
     },
     {
       "id": "theme_04",
@@ -32,7 +35,8 @@
       "category": "all",
       "album": "themes/theme_04/album.png",
       "preview": "themes/theme_04/preview.png",
-      "text_color": "#FFFFFF"
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_04/keyboard_image.png"
     },
     {
       "id": "theme_05",
@@ -40,7 +44,8 @@
       "category": "all",
       "album": "themes/theme_05/album.png",
       "preview": "themes/theme_05/preview.png",
-      "text_color": "#FFFFFF"
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_05/keyboard_image.png"
     },
     {
       "id": "theme_06",
@@ -48,7 +53,8 @@
       "category": "all",
       "album": "themes/theme_06/album.png",
       "preview": "themes/theme_06/preview.png",
-      "text_color": "#000000"
+      "text_color": "#000000",
+      "keyboard_image": "themes/theme_06/keyboard_image.png"
     },
     {
       "id": "theme_07",
@@ -56,7 +62,8 @@
       "category": "all",
       "album": "themes/theme_07/album.png",
       "preview": "themes/theme_07/preview.png",
-      "text_color": "#000000"
+      "text_color": "#000000",
+      "keyboard_image": "themes/theme_07/keyboard_image.png"
     },
     {
       "id": "theme_08",
@@ -64,7 +71,8 @@
       "category": "all",
       "album": "themes/theme_08/album.png",
       "preview": "themes/theme_08/preview.png",
-      "text_color": "#000000"
+      "text_color": "#000000",
+      "keyboard_image": "themes/theme_08/keyboard_image.png"
     },
     {
       "id": "theme_09",
@@ -72,7 +80,8 @@
       "category": "all",
       "album": "themes/theme_09/album.png",
       "preview": "themes/theme_09/preview.png",
-      "text_color": "#FFFFFF"
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_09/keyboard_image.png"
     },
     {
       "id": "theme_10",
@@ -80,7 +89,8 @@
       "category": "all",
       "album": "themes/theme_10/album.png",
       "preview": "themes/theme_10/preview.png",
-      "text_color": "#FFFFFF"
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_10/keyboard_image.png"
     },
     {
       "id": "theme_11",
@@ -88,7 +98,8 @@
       "category": "all",
       "album": "themes/theme_11/album.png",
       "preview": "themes/theme_11/preview.png",
-      "text_color": "#000000"
+      "text_color": "#000000",
+      "keyboard_image": "themes/theme_11/keyboard_image.png"
     },
     {
       "id": "theme_12",
@@ -96,7 +107,8 @@
       "category": "all",
       "album": "themes/theme_12/album.png",
       "preview": "themes/theme_12/preview.png",
-      "text_color": "#00fffc"
+      "text_color": "#00fffc",
+      "keyboard_image": "themes/theme_12/keyboard_image.png"
     },
     {
       "id": "theme_13",
@@ -104,7 +116,8 @@
       "category": "all",
       "album": "themes/theme_13/album.png",
       "preview": "themes/theme_13/preview.png",
-      "text_color": "#FFFFFF"
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_13/keyboard_image.png"
     },
     {
       "id": "theme_14",
@@ -112,7 +125,8 @@
       "category": "all",
       "album": "themes/theme_14/album.png",
       "preview": "themes/theme_14/preview.png",
-      "text_color": "#1ddfd9"
+      "text_color": "#1ddfd9",
+      "keyboard_image": "themes/theme_14/keyboard_image.png"
     },
     {
       "id": "theme_15",
@@ -120,7 +134,8 @@
       "category": "all",
       "album": "themes/theme_15/album.png",
       "preview": "themes/theme_15/preview.png",
-      "text_color": "#FFFFFF"
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_15/keyboard_image.png"
     }
   ]
 }
