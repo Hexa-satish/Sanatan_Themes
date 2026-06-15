@@ -1,41 +1,126 @@
 {
-  "version": 1,
+  "version": 2,
   "base_url": "https://raw.githubusercontent.com/Hexa-satish/Sanatan_Themes/main",
   "themes": [
     {
-      "id": "ganesh_gold",
-      "name": "Ganesh Gold",
-      "category": "ganesh",
-      "preview": "themes/ganesh_gold/preview.png",
-      "text_color": "#FFD700"
+      "id": "theme_01",
+      "name": "Theme 01",
+      "category": "all",
+      "album": "themes/theme_01/album.png",
+      "preview": "themes/theme_01/preview.png",
+      "text_color": "#FFFFFF"
     },
     {
-      "id": "hanuman_strength",
-      "name": "Hanuman Strength",
-      "category": "hanuman",
-      "preview": "themes/hanuman_strength/preview.png",
-      "text_color": "#FF6B35"
+      "id": "theme_02",
+      "name": "Theme 02",
+      "category": "all",
+      "album": "themes/theme_02/album.png",
+      "preview": "themes/theme_02/preview.png",
+      "text_color": "#FFFFFF"
     },
     {
-      "id": "krishna_bliss",
-      "name": "Krishna Bliss",
-      "category": "krishna",
-      "preview": "themes/krishna_bliss/preview.png",
-      "text_color": "#4A90D9"
+      "id": "theme_03",
+      "name": "Theme 03",
+      "category": "all",
+      "album": "themes/theme_03/album.png",
+      "preview": "themes/theme_03/preview.png",
+      "text_color": "#FFFFFF"
     },
     {
-      "id": "lotus_serenity",
-      "name": "Lotus Serenity",
-      "category": "lotus",
-      "preview": "themes/lotus_serenity/preview.png",
-      "text_color": "#E8A0BF"
+      "id": "theme_04",
+      "name": "Theme 04",
+      "category": "all",
+      "album": "themes/theme_04/album.png",
+      "preview": "themes/theme_04/preview.png",
+      "text_color": "#FFFFFF"
     },
     {
-      "id": "shiv_shakti_glow",
-      "name": "Shiv Shakti Glow",
-      "category": "shiv_shakti",
-      "preview": "themes/shiv_shakti_glow/preview.png",
-      "text_color": "#9B59B6"
+      "id": "theme_05",
+      "name": "Theme 05",
+      "category": "all",
+      "album": "themes/theme_05/album.png",
+      "preview": "themes/theme_05/preview.png",
+      "text_color": "#FFFFFF"
+    },
+    {
+      "id": "theme_06",
+      "name": "Theme 06",
+      "category": "all",
+      "album": "themes/theme_06/album.png",
+      "preview": "themes/theme_06/preview.png",
+      "text_color": "#000000"
+    },
+    {
+      "id": "theme_07",
+      "name": "Theme 07",
+      "category": "all",
+      "album": "themes/theme_07/album.png",
+      "preview": "themes/theme_07/preview.png",
+      "text_color": "#000000"
+    },
+    {
+      "id": "theme_08",
+      "name": "Theme 08",
+      "category": "all",
+      "album": "themes/theme_08/album.png",
+      "preview": "themes/theme_08/preview.png",
+      "text_color": "#000000"
+    },
+    {
+      "id": "theme_09",
+      "name": "Theme 09",
+      "category": "all",
+      "album": "themes/theme_09/album.png",
+      "preview": "themes/theme_09/preview.png",
+      "text_color": "#FFFFFF"
+    },
+    {
+      "id": "theme_10",
+      "name": "Theme 10",
+      "category": "all",
+      "album": "themes/theme_10/album.png",
+      "preview": "themes/theme_10/preview.png",
+      "text_color": "#FFFFFF"
+    },
+    {
+      "id": "theme_11",
+      "name": "Theme 11",
+      "category": "all",
+      "album": "themes/theme_11/album.png",
+      "preview": "themes/theme_11/preview.png",
+      "text_color": "#000000"
+    },
+    {
+      "id": "theme_12",
+      "name": "Theme 12",
+      "category": "all",
+      "album": "themes/theme_12/album.png",
+      "preview": "themes/theme_12/preview.png",
+      "text_color": "#00fffc"
+    },
+    {
+      "id": "theme_13",
+      "name": "Theme 13",
+      "category": "all",
+      "album": "themes/theme_13/album.png",
+      "preview": "themes/theme_13/preview.png",
+      "text_color": "#FFFFFF"
+    },
+    {
+      "id": "theme_14",
+      "name": "Theme 14",
+      "category": "all",
+      "album": "themes/theme_14/album.png",
+      "preview": "themes/theme_14/preview.png",
+      "text_color": "#1ddfd9"
+    },
+    {
+      "id": "theme_15",
+      "name": "Theme 15",
+      "category": "all",
+      "album": "themes/theme_15/album.png",
+      "preview": "themes/theme_15/preview.png",
+      "text_color": "#FFFFFF"
     }
   ]
 }
