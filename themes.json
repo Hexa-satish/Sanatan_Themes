@@ -3,22 +3,13 @@
   "base_url": "https://raw.githubusercontent.com/Hexa-satish/Sanatan_Themes/main",
   "themes": [
     {
-      "id": "theme_01",
-      "name": "Theme 01",
+      "id": "theme_02",
+      "name": "Theme 02",
       "category": "all",
       "album": "themes/theme_02/album.png",
       "preview": "themes/theme_02/preview.png",
       "text_color": "#FFFFFF",
       "keyboard_image": "themes/theme_02/keyboard_image.png"
-    },
-    {
-      "id": "theme_02",
-      "name": "Theme 02",
-      "category": "all",
-      "album": "themes/theme_01/album.png",
-      "preview": "themes/theme_01/preview.png",
-      "text_color": "#FFFFFF",
-      "keyboard_image": "themes/theme_01/keyboard_image.png"
     },
     {
       "id": "theme_03",
@@ -28,6 +19,15 @@
       "preview": "themes/theme_03/preview.png",
       "text_color": "#FFFFFF",
       "keyboard_image": "themes/theme_03/keyboard_image.png"
+    },
+    {
+      "id": "theme_01",
+      "name": "Theme 01",
+      "category": "all",
+      "album": "themes/theme_01/album.png",
+      "preview": "themes/theme_01/preview.png",
+      "text_color": "#FFFFFF",
+      "keyboard_image": "themes/theme_01/keyboard_image.png"
     },
     {
       "id": "theme_04",
